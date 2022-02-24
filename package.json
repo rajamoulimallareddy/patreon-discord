@@ -12,8 +12,9 @@
     "node-fetch": "^2.6.1"
   },
   "engines": {
-    "node": ">=16.x"
-  },
+    "node": ">=16.6.0",
+    "npm": ">=7.0.0"
+  }
   "repository": {
     "url": "https://github.com/miramallows/patreon-discord"
   }
